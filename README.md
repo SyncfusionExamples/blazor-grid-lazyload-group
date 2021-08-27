@@ -12,3 +12,6 @@ Blazor Grid example demonstrates the Lazy load grouping feature.
 * Execute `dotnet restore` to restore nuget packages.
 * Run `dotnet run` to open application in `https://localhost:5001`
 
+## Blog reference
+[How to Efficiently Group a Large Volume of Data in Blazor DataGrid](https://www.syncfusion.com/blogs/post/how-to-efficiently-group-a-large-volume-of-data-in-blazor-datagrid.aspx)
+
