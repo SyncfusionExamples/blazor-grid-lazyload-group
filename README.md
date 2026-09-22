@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates the Lazy Load Grouping feature in the Syncfusion Blazor DataGrid. Lazy load grouping improves performance when working with large grouped datasets by initially rendering only group caption rows and loading the corresponding child records when a group is expanded. This approach minimizes data processing, reduces memory consumption, and improves responsiveness compared to loading all grouped records at once.
+This sample demonstrates the Lazy Load Grouping feature in the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid). Lazy load grouping improves performance when working with large grouped datasets by initially rendering only group caption rows and loading the corresponding child records when a group is expanded. This approach minimizes data processing, reduces memory consumption, and improves responsiveness compared to loading all grouped records at once.
 
 ## Key Features
 
